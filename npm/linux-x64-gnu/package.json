@@ -1,0 +1,23 @@
+{
+  "name": "@tracesix/logger-linux-x64-gnu",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "logger.linux-x64-gnu.node",
+  "files": [
+    "logger.linux-x64-gnu.node"
+  ],
+  "description": "Fastest native logging for services",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/taskyland/tracesix",
+  "libc": [
+    "glibc"
+  ]
+}

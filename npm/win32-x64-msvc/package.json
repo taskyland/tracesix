@@ -1,0 +1,20 @@
+{
+  "name": "@tracesix/logger-win32-x64-msvc",
+  "version": "0.0.0",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "logger.win32-x64-msvc.node",
+  "files": [
+    "logger.win32-x64-msvc.node"
+  ],
+  "description": "Fastest native logging for services",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/taskyland/tracesix"
+}
